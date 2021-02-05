@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+    background: lime;
+    background-repeat: no-repeat;
+
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+
+h1 {
+    text-shadow: 2px 2px blue;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: blue;
+}
+
+#writings a {
+    text-shadow: none !important;
+    text-decoration: underline !important;
+    color: blue !important;
+}
+
+#contact {
+    background: firebrick;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
